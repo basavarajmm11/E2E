@@ -1,0 +1,7 @@
+21:17:33.130 [TestNG-tests-2] INFO  Acadmy.Base - Initializing the driver
+21:17:33.144 [TestNG-tests-1] INFO  Acadmy.Base - Initializing the driver
+21:18:27.073 [TestNG-tests-2] INFO  Acadmy.Base - Navigated to Home page
+21:18:27.074 [TestNG-tests-1] INFO  Acadmy.Base - Navigated to Home page
+21:18:31.351 [TestNG-tests-2] INFO  Acadmy.Base - Succesfully validated the Fetured
+21:18:32.964 [TestNG-tests-2] INFO  Acadmy.Base - Succesfully validated the navigatin bar
+21:18:33.029 [TestNG-tests-2] INFO  Acadmy.Base - Succesfully validated the ACADEMY HEADR

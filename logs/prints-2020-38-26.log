@@ -1,0 +1,7 @@
+19:33:34.808 [main] INFO  Acadmy.Base - Navigated to Home page
+19:33:34.997 [main] INFO  Acadmy.Base - Succesfully validated the Fetured
+19:33:35.305 [main] INFO  Acadmy.Base - Succesfully validated the navigatin bar
+19:38:26.254 [TestNG-tests-2] INFO  Acadmy.Base - Initializing the driver
+19:38:26.628 [TestNG-tests-1] INFO  Acadmy.Base - Initializing the driver
+19:38:41.643 [TestNG-tests-2] INFO  Acadmy.Base - Navigated to Home page
+19:38:41.733 [TestNG-tests-2] INFO  Acadmy.Base - Succesfully validated the Fetured

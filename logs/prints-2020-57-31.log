@@ -1,0 +1,7 @@
+12:08:33.619 [TestNG-tests-1] INFO  Acadmy.Base - Navigated to Home page
+12:08:37.236 [TestNG-tests-1] INFO  Acadmy.Base - successfully validated the test
+12:56:22.439 [TestNG-tests-2] INFO  Acadmy.Base - Initializing the driver
+12:56:22.439 [TestNG-tests-1] INFO  Acadmy.Base - Initializing the driver
+12:57:03.942 [TestNG-tests-1] INFO  Acadmy.Base - Navigated to Home page
+12:57:04.336 [TestNG-tests-2] INFO  Acadmy.Base - Navigated to Home page
+12:57:05.251 [TestNG-tests-2] INFO  Acadmy.Base - Succesfully validated the Fetured
